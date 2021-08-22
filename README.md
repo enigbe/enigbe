@@ -5,8 +5,9 @@ Backend Software Developer.
 ---
 
 ### About Me
-My name is Enigbe 'Eni' Ochekliye. Until recently, I was a mechanical engineer overseeing plant maintenance management.
+My name is Enigbe Ochekliye. Until recently, I was a mechanical engineer overseeing plant maintenance management.
 I am transitioning to backend software development with a primary focus on systems built with Python and Javascript. Currently open for roles as an intern, developer apprentice or junior developer.
+
 
 [![Twitter Badge](https://img.shields.io/badge/-@engb_os-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/engb_os)](https://twitter.com/engb_os)  [![Linkedin Badge](https://img.shields.io/badge/-enigbe-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enigbe/) [![Mail Badge](https://img.shields.io/badge/-@engb_smr-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/engb_smr) [![Mail Badge](https://img.shields.io/badge/-enigbeos-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:enigbeos@gmail.com)
 
@@ -27,16 +28,18 @@ I am transitioning to backend software development with a primary focus on syste
 
 ### Learning Journey
 - Python
-  - [x] Complete Python Course 
-  - [x] REST API design with Flask and Python
+  - [x] The Complete Python Course | Learn Python by Doing
+  - [x] REST APIs with Flask and Python
   - [x] Advanced REST API design with Flask and Python
-  - [x] Python and Postgresql
+  - [x] The Complete Python and Postgresql Developer Course
   - [x] Automated Softawre Testing with Python
   - [x] Getting Started with Python Concurrency
+  - [ ] Python Design Patterns
 - Javascript
   - [x] Modern Javascript Bootcamp
-  - [x] Complete MongoDB with TDD
-  - [x] API design with NodeJS
+  - [x] The Complete Developers Guide to MongoDB
+  - [x] API Design with NodeJS
+  - [ ] Node.js Class
   - [ ] Typescript
   - [ ] Microservices
 - Containerization
@@ -52,4 +55,7 @@ I am transitioning to backend software development with a primary focus on syste
 ### Github Stats
 [![Enigbe's GitHub stats](https://github-readme-stats.vercel.app/api?username=enigbe)](https://github.com/enigbe/github-readme-stats)
 
+___
 
+### Articles
+Coming soon
