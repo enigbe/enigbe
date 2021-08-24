@@ -57,5 +57,8 @@ I am transitioning to backend software development with a primary focus on syste
 
 ___
 
+### Current Read
+  - [ ] Python Microservices Development by Tarek Ziade
+
 ### Articles
 Coming soon
