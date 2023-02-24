@@ -8,9 +8,9 @@ Enigbe [`Enie`] Ochekliye
 
 - Mechanical Engineer with 4+ years of experience.
 - Transitioned to software engineering in 2021.
-- Building software solutions primarily with Python and recently with Rust.
-- Currently exploring distributed and decentralized systems, particularly bitcoin and lightning, building software with Rust.
-- Open to opportunities in bitcoin development.
+- Building software solutions primarily with Rust and Python.
+- Currently exploring distributed/decentralized systems, particularly bitcoin and lightning, as well as and Rust-powered embedded systems.
+- Open to any opportunities in software development.
 
 ## Articles
 
